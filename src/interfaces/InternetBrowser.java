@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface InternetBrowser {
+    public interface InternetBrowser {
 
     void exibirPagina(String url);
 
